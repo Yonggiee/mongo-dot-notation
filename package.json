@@ -1,11 +1,11 @@
 {
   "name": "@yonggiee/mongo-dot-notation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Transform javascript objects to Mongo dot notation query.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/yonggiee/mongo-dot-notation.git"
+    "url": "https://github.com/yonggiee/mongo-dot-notation"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
