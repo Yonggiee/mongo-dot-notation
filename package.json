@@ -1,6 +1,6 @@
 {
   "name": "@yonggiee/mongo-dot-notation",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Transform javascript objects to Mongo dot notation query.",
   "main": "index.js",
   "repository": {
@@ -14,5 +14,8 @@
     "mongo"
   ],
   "author": "Yong Jie",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.4.0"
+  }
 }
